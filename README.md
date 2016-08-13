@@ -1,8 +1,10 @@
 # laravel-zaimer
 
-Clone project
+Clone project, rename .env.example to .env, configure
 
 > php composer.phar install
+
+> php artisan key:generate
 
 > php artisan db:seed
 
